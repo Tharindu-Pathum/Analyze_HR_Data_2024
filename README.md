@@ -1,7 +1,8 @@
-HR Data Analysis
+#HR Data Analysis
+
 This Power BI project offers an in-depth analysis of HR data to provide a comprehensive overview of the workforce and organizational health. It presents a detailed dashboard that displays metrics such as employee turnover, performance, demographic data, and more. The analysis focuses on identifying key trends in employee behavior, such as retention rates and performance patterns, to help guide strategic HR decisions. The project also measures the impact of HR initiatives and tracks changes over time to ensure continuous improvement and alignment with business goals.
 
-Overview
+##Overview
 This project involves analyzing HR data using Microsoft Power BI to gain valuable insights into workforce dynamics. The process includes data collection, cleaning, modeling, and the creation of interactive visualizations, resulting in a comprehensive HR dashboard.
 
 Project Steps
