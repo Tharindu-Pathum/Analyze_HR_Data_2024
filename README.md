@@ -9,19 +9,19 @@ This project involves analyzing HR data using Microsoft Power BI to gain valuabl
 ## Project Steps
 
 ### 1. Data Collection
-  Gather HR-related data, including employee details, performance records, tenure, department allocation, and more.
+  - Gather HR-related data, including employee details, performance records, tenure, department allocation, and more.
 
 ### 2. Data Cleaning and Preparation
-  Clean the collected data to remove errors, duplicates, or inconsistencies. Ensure the data is formatted correctly for accurate analysis.
+  - Clean the collected data to remove errors, duplicates, or inconsistencies. Ensure the data is formatted correctly for accurate analysis.
 
 ### 3. Data Modeling
-  Use the cleaned data to create a structured data model in Power BI, establishing relationships between different HR metrics.
+  - Use the cleaned data to create a structured data model in Power BI, establishing relationships between different HR metrics.
 
 ### 4. Measures and Calculations
-  Develop custom calculations, such as turnover rates, average tenure, and performance scores, using Power BI's DAX (Data Analysis Expressions). These metrics are essential for understanding employee trends.
+  - Develop custom calculations, such as turnover rates, average tenure, and performance scores, using Power BI's DAX (Data Analysis Expressions). These metrics are essential for understanding employee trends.
 
 ### 5. Building Visualizations
-  Design interactive charts, graphs, and dashboards in Power BI to visualize key HR metrics and insights.
+  - Design interactive charts, graphs, and dashboards in Power BI to visualize key HR metrics and insights.
 
 ### 6. Dashboard and Report Development
-  Combine all visualizations into a cohesive, interactive HR dashboard that provides a clear view of workforce performance and trends.
+  - Combine all visualizations into a cohesive, interactive HR dashboard that provides a clear view of workforce performance and trends.
